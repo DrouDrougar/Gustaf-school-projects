@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Why am i trying to do the menu thing again/1.0.0": {
+        "runtime": {
+          "Why am i trying to do the menu thing again.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Why am i trying to do the menu thing again/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

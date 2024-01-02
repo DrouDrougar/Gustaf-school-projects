@@ -1,0 +1,14 @@
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\bin\Debug\net6.0\Why am i trying to do the menu thing again.exe
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\bin\Debug\net6.0\Why am i trying to do the menu thing again.deps.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\bin\Debug\net6.0\Why am i trying to do the menu thing again.runtimeconfig.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\bin\Debug\net6.0\Why am i trying to do the menu thing again.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\bin\Debug\net6.0\Why am i trying to do the menu thing again.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\Why am i trying to do the menu thing again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\Why am i trying to do the menu thing again.AssemblyInfoInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\Why am i trying to do the menu thing again.AssemblyInfo.cs
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\Why am i trying to do the menu thing again.csproj.CoreCompileInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\Why am i trying to do the menu thing again.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\refint\Why am i trying to do the menu thing again.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\Why am i trying to do the menu thing again.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\Why am i trying to do the menu thing again.genruntimeconfig.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\MENYER\Why am i trying to do the menu thing again\obj\Debug\net6.0\ref\Why am i trying to do the menu thing again.dll
