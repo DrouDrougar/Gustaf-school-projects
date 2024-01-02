@@ -1,0 +1,14 @@
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Calculator\obj\Debug\net6.0\ref\Calculator.dll
