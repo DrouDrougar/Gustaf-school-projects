@@ -1,0 +1,28 @@
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\bin\Debug\net6.0\Bankomat uppgift.exe
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\bin\Debug\net6.0\Bankomat uppgift.deps.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\bin\Debug\net6.0\Bankomat uppgift.runtimeconfig.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\bin\Debug\net6.0\Bankomat uppgift.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\bin\Debug\net6.0\Bankomat uppgift.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\Bankomat uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\Bankomat uppgift.AssemblyInfoInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\Bankomat uppgift.AssemblyInfo.cs
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\Bankomat uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\Bankomat uppgift.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\refint\Bankomat uppgift.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\Bankomat uppgift.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\Bankomat uppgift.genruntimeconfig.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift\obj\Debug\net6.0\ref\Bankomat uppgift.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\Bankomat uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\Bankomat uppgift.AssemblyInfoInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\Bankomat uppgift.AssemblyInfo.cs
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\Bankomat uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\Bankomat uppgift.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\refint\Bankomat uppgift.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\Bankomat uppgift.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\bin\Debug\net6.0\Bankomat uppgift.exe
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\bin\Debug\net6.0\Bankomat uppgift.deps.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\bin\Debug\net6.0\Bankomat uppgift.runtimeconfig.json
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\bin\Debug\net6.0\Bankomat uppgift.dll
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\bin\Debug\net6.0\Bankomat uppgift.pdb
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\Bankomat uppgift.genruntimeconfig.cache
+C:\Users\Gustaf\Desktop\System utveckling 2023\Bankomat uppgift - kopia\obj\Debug\net6.0\ref\Bankomat uppgift.dll
